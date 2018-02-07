@@ -1,0 +1,6 @@
+*~
+/vendor/
+/resources/
+/node_modules/
+/npm-debug.log
+composer.lock
